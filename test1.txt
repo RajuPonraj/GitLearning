@@ -1,2 +1,8 @@
-test1
-adactin hotel page teted successfully 
+how to add your project to git
+
+git commands 
+    1 git init
+    2 git status
+    3 git add
+    4 git commit -m "message to enter"
+    5 git remote add origin https://github.com/RajuPonraj/GitLearning.git
