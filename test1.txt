@@ -6,3 +6,4 @@ git commands
     3 git add
     4 git commit -m "message to enter"
     5 git remote add origin https://github.com/RajuPonraj/GitLearning.git
+    6 git push -u origin master
