@@ -1,10 +1,2 @@
- Volume in drive C has no label.
- Volume Serial Number is 6059-E898
-
- Directory of C:\Users\admin\Desktop\MyProject
-
-02/24/2023  10:30 PM    <DIR>          .
-02/24/2023  10:30 PM    <DIR>          ..
-02/24/2023  10:30 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  64,007,192,576 bytes free
+test1
+adactin hotel page teted successfully 
