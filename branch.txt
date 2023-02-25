@@ -1,0 +1,4 @@
+how to create branches via git
+
+   1 git branch BranchName
+   2 git checkout BranchName
